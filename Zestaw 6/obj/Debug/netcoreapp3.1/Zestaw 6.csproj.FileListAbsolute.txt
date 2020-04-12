@@ -1,0 +1,11 @@
+C:\Users\Paweł\source\repos\Zestaw 6\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Paweł\source\repos\Zestaw 6\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Paweł\source\repos\Zestaw 6\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Paweł\source\repos\Zestaw 6\bin\Debug\netcoreapp3.1\Zestaw 6.exe
+C:\Users\Paweł\source\repos\Zestaw 6\obj\Debug\netcoreapp3.1\Zestaw 6.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\Zestaw 6\obj\Debug\netcoreapp3.1\staticwebassets\Zestaw 6.StaticWebAssets.Manifest.cache
+C:\Users\Paweł\source\repos\Zestaw 6\obj\Debug\netcoreapp3.1\staticwebassets\Zestaw 6.StaticWebAssets.xml
+C:\Users\Paweł\source\repos\Zestaw 6\obj\Debug\netcoreapp3.1\Zestaw 6.AssemblyInfoInputs.cache
+C:\Users\Paweł\source\repos\Zestaw 6\obj\Debug\netcoreapp3.1\Zestaw 6.AssemblyInfo.cs
+C:\Users\Paweł\source\repos\Zestaw 6\obj\Debug\netcoreapp3.1\Zestaw 6.RazorTargetAssemblyInfo.cache
+C:\Users\Paweł\source\repos\Zestaw 6\obj\Debug\netcoreapp3.1\Zestaw 6.MvcApplicationPartsAssemblyInfo.cache
