@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paweł\\source\\repos\\Zestaw 6\\Zestaw 6.csproj": {}
+    "C:\\Users\\Paweł\\Desktop\\Studia\\APBD\\CW6\\Zestaw 6\\Zestaw 6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paweł\\source\\repos\\Zestaw 6\\Zestaw 6.csproj": {
+    "C:\\Users\\Paweł\\Desktop\\Studia\\APBD\\CW6\\Zestaw 6\\Zestaw 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paweł\\source\\repos\\Zestaw 6\\Zestaw 6.csproj",
+        "projectUniqueName": "C:\\Users\\Paweł\\Desktop\\Studia\\APBD\\CW6\\Zestaw 6\\Zestaw 6.csproj",
         "projectName": "Zestaw 6",
-        "projectPath": "C:\\Users\\Paweł\\source\\repos\\Zestaw 6\\Zestaw 6.csproj",
+        "projectPath": "C:\\Users\\Paweł\\Desktop\\Studia\\APBD\\CW6\\Zestaw 6\\Zestaw 6.csproj",
         "packagesPath": "C:\\Users\\Paweł\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paweł\\source\\repos\\Zestaw 6\\obj\\",
+        "outputPath": "C:\\Users\\Paweł\\Desktop\\Studia\\APBD\\CW6\\Zestaw 6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paweł\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,6 +41,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
             }
           },
           "imports": [
